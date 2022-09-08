@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 //        var myArray1: IntArray
 //        var intent1 =  parent
 
+
     }
 }
 

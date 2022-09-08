@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/aperl/AndroidStudioProjects/thirdemptygithub/app/src/main/res/layout/activity_main.xml" value="0.11122448979591837" />
+        <entry key="..\:/Users/aperl/AndroidStudioProjects/thirdemptygithub/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aperl/AndroidStudioProjects/thirdemptygithub/app/src/main/res/layout/activity_main.xml" value="0.13974358974358975" />
+        <entry key="..\:/Users/aperl/AndroidStudioProjects/thirdemptygithub/app/src/main/res/layout/activity_main2.xml" value="0.13974358974358975" />
+        <entry key="..\:/Users/aperl/AndroidStudioProjects/thirdemptygithub/app/src/main/res/layout/fragment_first.xml" value="0.1" />
       </map>
     </option>
   </component>
